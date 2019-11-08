@@ -12,7 +12,7 @@ class TechList extends Component {
   render(){
     return (
       <ul>
-        <li>Node.js</li>
+        <li>Nodejs</li>
         <li>ReactJS</li>
         <li>React Native</li>
       </ul>
