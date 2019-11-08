@@ -1,8 +1,10 @@
 import React from 'react';
 import './App.css';
 
+import images from './assets/images.jpg';
+
 function App() {
-  return <h1>Hello Rocketseat</h1>
+  return <img width="500" src={images} />
 }
 
 export default App;
